@@ -81,12 +81,10 @@ To reduce food wastage and ensure surplus food reaches people who need it most.
 
 ## 👨‍💻 Author
 
-**Satheeswaran S**
+**Satheeswaran B**
 
 Computer Science and Engineering Student  
 Sathyabama Institute of Science and Technology
-
-GitHub: https://github.com/your-username
 
 ---
 
