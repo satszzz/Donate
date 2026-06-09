@@ -43,9 +43,6 @@ Food-Donation-System/
 ├── showcase.html
 └── package.json
 ```
- 
-
-or simply open `index.html` in your browser.
 
 ## 🎯 Project Goal
 
