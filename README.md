@@ -58,7 +58,7 @@ To reduce food wastage and ensure surplus food reaches people who need it most.
 
 ## 👨‍💻 Author
 
-**Satheeswaran B**
+**Satheeswaran **
 
 Computer Science and Engineering Student  
 Sathyabama Institute of Science and Technology
